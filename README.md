@@ -11,7 +11,7 @@ Then:
 
 > fortune -e ksaj
 
-This should also work with cowsay and all the other fortune variants.
+This should also work with fortune piped through cowsay and all the other fortune filter variants.
 
 ## Update frequency
 
