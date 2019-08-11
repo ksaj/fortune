@@ -20,6 +20,7 @@ Incidentally, here's how I use it personally. It greets me every time I open a b
 An example of how this appears:
 
 ```
+ ________________________________________
 ( "Everything we see is simply           )
 ( information within our consciousness   )
 ( that is being stored in a body that    )
