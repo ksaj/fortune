@@ -7,9 +7,8 @@ Run the install.sh to compile the database and copy the files to the fortune dir
 
 Incidentally, here's how I use it personally. It greets me every time I open a bash shell.
 
-```
-fortune -e ksaj | cowthink -f $(find /usr/share/cowsay/cows -type f | shuf -n 1)
-```
+> fortune -e ksaj | cowthink -f $(find /usr/share/cowsay/cows -type f | shuf -n 1)
+
 
 **NOTE:** The install script uses sudo for the copy, so you will need sudoer or root permissions.
 
