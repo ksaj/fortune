@@ -20,24 +20,19 @@ Incidentally, here's how I use it personally. It greets me every time I open a b
 An example of how this appears:
 
 ```
- ________________________________________
-( "Everything we see is simply           )
-( information within our consciousness   )
-( that is being stored in a body that    )
-( will inevitably self-destruct." -- Dr. )
-( Robert Lanza                           )
- ----------------------------------------
-    o
-     o
-                                   .::!!!!!!!:.
-  .!!!!!:.                        .:!!!!!!!!!!!!
-  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$ 
-      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P 
-      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$# 
-      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$* 
-      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R" 
-        "*$bd$$$$      '*$$$$$$$$$$$o+#" 
-             """"          """"""" 
+_________________________________________
+( "A Hotel with an infinite number of     )
+( rooms can accommodate extra guests even )
+( if it is full" -- Hilbert's Paradox     )
+ -----------------------------------------
+  o
+   o
+       __     
+      UooU\.'@@@@@@`.
+      \__/(@@@@@@@@@@)
+           (@@@@@@@@)
+           `YY~~~~YY'
+            ||    ||
 ```
 
 Pretty cool, eh?
