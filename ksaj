@@ -55,3 +55,9 @@
 "...the brain is normally run like a heavily overclocked CPU & with insufficient cooling, so it needs to be turned off frequently to cool down." -- Anon
 %
 "Above all else, guard your heart, for everything you do flows from it." -- Proverbs 4:23
+%
+(let((Δ 1))(1+ Δ)) ;=> 2
+#
+"When the model becomes accurate, it is just as difficult to understand as the real-world processes it represents." -- Bonini's paradox
+%
+
