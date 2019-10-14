@@ -11,9 +11,9 @@ Then:
 
 > fortune -e ksaj
 
-This should also work with fortune piped through cowsay and all the other fortune filter variants.
+This also works with fortune piped through cowsay and all the other fortune filter variants.
 
-Incidentally, here's how I use it personally. It greets me every time I open a bash shell.
+Incidentally, here's how I use it personally. It greets me every time I open a new bash terminal. You can do something like this by simply adding the following line to the end of your .bashrc or equivalent terminal shell configuration file:
 
 > fortune -e ksaj | cowthink -f $(find /usr/share/cowsay/cows -type f | shuf -n 1)
 
@@ -35,14 +35,12 @@ _________________________________________
             ||    ||
 ```
 
-Pretty cool, eh?
-
 ## Update frequency
 
 I'll only be updating it when I see a quote I'd like presented in my login. So it could be often, or rarely. It's really for my own entertainment, but made public for anyone who wants to see how to create their own fortunes.
 
-I'll only be updating ksaj.dat once in a while, since you need to use the install.sh to install it properly anyway. As such, the ksaj file will pretty much always be more recent than ksaj.dat, and you'll need to use install.sh with the ksaj file to ensure you have the most recent version. ksaj.dat is only here for those who can't run install.sh for whatever reason, such as a missing or incompatible strfile command.  If ksaj and ksaj.dat have the same date in the repo, they are in sync. If not, ymmv. Just run install.sh and you're gold.
+**UPDATE:** I've added a file of stupid things trump says, and another of quotes that exemplify the theme of Ruined Childhood. Each has a .sh script to compile and install the fortune databases.
 
 # LICENSE
 
-Only $49.99 to start, and then 99 cents / month thereafter. Just kidding. Public domain. Do with it what you wish. Enjoy!
+Only $49.99 to start, and then 99 cents / month thereafter. Just kidding. Public domain. Do with it what you wish. You don't even have to credit me. Enjoy!
