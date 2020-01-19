@@ -52,11 +52,13 @@
 %
 "[I'll] Never forget the first time I saw those rings in person through a cheap telescope. It somehow places you in the same universe you've only read about till then." -- Anonymous
 %
-"...the brain is normally run like a heavily overclocked CPU & with insufficient cooling, so it needs to be turned off frequently to cool down." -- Anonymous
+"The brain is normally run like a heavily overclocked CPU & with insufficient cooling, so it needs to be turned off frequently to cool down." -- Anonymous
 %
 "Above all else, guard your heart, for everything you do flows from it." -- Proverbs 4:23
 %
-(let((Δ 1))(1+ Δ)) ;=> 2
+> (let((Δ 1))(1+ Δ))
+2
+> _
 #
 "When the model becomes accurate, it is just as difficult to understand as the real-world processes it represents." -- Bonini's paradox
 %
@@ -99,4 +101,20 @@ Divisions never break down when you build stronger and stronger barriers between
 "Any sufficiently complicated C or Fortran program contains an ad-hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp." -- Philip Greenspun's 10th Rule of Computing
 %
 "Don't write better error messages, write code that doesn't need them." - Jason C. McDonald
+%
+"Half the carnival lies right behind the wagons." -- Karsten Johansson
+%
+“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein
+%
+"do Brits refer to session cookies as session biscuits?" -- @gabsmashh
+%
+"Do Americans refer to traffic jams as traffic jellies?" -- @Olly_McGibbon
+%
+"Do Americans refer to site metrics as site imperials?" -- @miko_a
+%
+[On why NSA informed Microsoft of a serious vulnerability in their code] "It's just become known by their adversaries. That's the exact time when it is right to retire and extinguish an otherwise perfectly usable exploit." -- Karsten Johansson
+%
+"When your adversary doesn't know your new trick, you keep yer mouth shut and use it to your advantage. The moment they catch on, they are no longer vulnerable, but your own people are. Extinguish immediately, and move on to the next secret you hold." -- Karsten Johansson
+%
+[About arrival in Riyadh, Saudi Arabia for the last time] "Here I am again, in the most un-holy land there is to behold." -- Karsten Johansson
 %
