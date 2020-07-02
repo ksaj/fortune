@@ -18,8 +18,6 @@
 %
 "Those who don't believe in magic will never find it." -- Roald Dahl
 %
-"I’m not smiling because I’m sad. I’m not smiling because I’m trying to keep the million little anxieties and thoughts swimming through my head in control. And I don’t feel a particular need to smile." -- Anonymous RE: Autism
-%
 "I’m okay being alone sometimes. I get it. Having friends is normal and I like the few people I trust to be friends. But if I get the opportunity to be by myself, close my eyes and not worry about anything, I will take it." -- Anonymous RE: Autism
 %
 "Common Lisp macros are to C++ templates what poetry is to IRS tax forms." -- Christian Schafmeister
@@ -50,7 +48,7 @@
 %
 "You are literally the universe trying to figure itself out." -- Anonymous
 %
-"[I'll] Never forget the first time I saw those rings in person through a cheap telescope. It somehow places you in the same universe you've only read about till then." -- Anonymous
+"I'll Never forget the first time I saw those rings in person through a cheap telescope. It somehow places you in the same universe you've only read about till then." -- Anonymous
 %
 "The brain is normally run like a heavily overclocked CPU & with insufficient cooling, so it needs to be turned off frequently to cool down." -- Anonymous
 %
@@ -92,7 +90,7 @@ Divisions never break down when you build stronger and stronger barriers between
 %
 "Have we ever studied dark environment species to see if shining a spot of laser light interests at least one of them, in the way that laser dots instantly capture the attention of cats, dogs and goldfish alike?" -- Karsten Johansson
 %
-"Compared to the human life cycle, quantum cryptography is at the "on the verge of speaking in coherent sentences, but still prone to smearing feces on the wall" age and stage. You can sense that it'll grow up to be quite smart, but there's a lot of learning to go before you can hope for a Junior Einstein." -- Karsten Johansson
+"Compared to the human life cycle, quantum cryptography is at the "on the verge of speaking in coherent sentences, but still 'prone to smearing feces on the wall' age and stage. You can sense that it'll grow up to be quite smart, but there's a lot of learning to go before you can hope for a Junior Einstein." -- Karsten Johansson
 %
 “What you’re really doing when you’re experiencing gravity isn’t being heavy in your chair, it’s falling weightlessly in the gravitational field." -- Janna Levin
 %
@@ -102,7 +100,7 @@ Divisions never break down when you build stronger and stronger barriers between
 %
 "Don't write better error messages, write code that doesn't need them." - Jason C. McDonald
 %
-"Half the carnival lies right behind the wagons." -- Karsten Johansson
+"Half the carnival happens right behind the wagons." -- Karsten Johansson
 %
 “The mind that opens up to a new idea never returns to its original size.” – Albert Einstein
 %
@@ -115,8 +113,6 @@ Divisions never break down when you build stronger and stronger barriers between
 [On why NSA informed Microsoft of a serious vulnerability in their code] "It's just become known by their adversaries. That's the exact time when it is right to retire and extinguish an otherwise perfectly usable exploit." -- Karsten Johansson
 %
 "When your adversary doesn't know your new trick, you keep yer mouth shut and use it to your advantage. The moment they catch on, they are no longer vulnerable, but your own people are. Extinguish immediately, and move on to the next secret you hold." -- Karsten Johansson
-%
-[About arrival in Riyadh, Saudi Arabia for the last time] "Here I am again, in the most un-holy land there is to behold." -- Karsten Johansson
 %
 "Listening is often more than hearing." -- Senate Chaplain Barry Black
 %
@@ -146,18 +142,6 @@ Metrocop: “She'll get years for that. Off switches are illegal!”
 %
 "Judgement is soluble in alcohol" -- Dr. Justin A. Frank
 %
-The foofy restaurant taps, that turn on when you wave your hands in front of them, clean your hands without you having to touch dirty knobs. 
-
-Wash up after touching any knob. Even your own. No joking! You're  not 12 anymore. And get yer finger out of yer nose, too, idiot!
-%
-The foofy restaurant taps, that turn on when you wave your hands in front of them, clean your hands without you having to touch dirty knobs. 
-
-Wash up after touching any knob. Even your own. No joking! You're  not 12 anymore. And get yer finger out of yer nose, too, idiot!
-%
-"The foofy restaurant taps, that turn on when you wave your hands in front of them, clean your hands without you having to touch dirty knobs. 
-
-Wash up after touching any knob. Even your own. No joking! You're  not 12 anymore. And get yer finger out of yer nose, too, idiot!" -- Karsten Johansson, re: Novel Coronovirus 2020
-%
 "Why even bother with an act if you can’t commit to the role?" -- Colin Lupton
 %
 "Rome wasn't built in a day. But they were laying bricks every hour." -- James Clear
@@ -178,7 +162,7 @@ Wash up after touching any knob. Even your own. No joking! You're  not 12 anymor
 %
 "We may have all come on different ships, but we're all in the same boat now." -- Martin Luther King
 %
-"No man is a hero to his valey." -- Anne-Marie Bigot de Cornuel
+"No man is a hero to his valley." -- Anne-Marie Bigot de Cornuel
 %
 "All these things have such a considerable bearing on our theme, that they are altogether worthy of being duly inquired into." -- Johann Heinrich Heucher, Magical Plants, ca 1700.
 %
@@ -186,9 +170,41 @@ Wash up after touching any knob. Even your own. No joking! You're  not 12 anymor
 %
 "If you bury your head in your ass, the world disappears and you are in your safe place." -- Karsten Johansson
 %
-"My psychic device just told me that I'm going to be watching a lot of small-screen animation for the next while. So now I'm setting it to Vibrate Only." -- Karsten Johansson
-%
-If viruses aren't alive, in what state were the covid19 viruses before they became "dead" in these positive measurements? ... Is there a state somewhere between alive and dead that was never alive primarily?
-%
 “Coming together is a beginning. Keeping together is progress. Working together is success.” -- Henry Ford
+%
+"Digital exclusion is, for a lot of people, just an extension of social exclusion." -- Helen Milner, Good Things Foundation
+%
+“Everybody is a genius… But if you judge a fish by its ability to climb trees, it will live its whole life believing that it is stupid.” -- Anonymous
+%
+"Coffee is not hydration...and yet I keep trying" -- Kitty Hegemon
+%
+"I am convinced that Bill Gates is part of a huge conspiracy to stop people from getting preventable diseases." -- @JRehling
+%
+"Programs must be written for people to read, and only incidentally for machines to execute." -- Structure and Interpretation of Computer Programs, MIT Press
+%
+"However little television you watch, watch less." -– David McCullough
+%
+"A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work." –- John Gall
+%
+"We are all agreed that your theory is crazy. The question that divides us is whether it is crazy enough to have a chance of being correct." -– Neils Bohr
+%
+"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka' but 'That's funny...'" -– Isaac Asimov
+%
+"If one room in your house is dirty, you've got a dirty house." -- Malmcolm X
+%
+"The difference between the master and the novice is that the master has failed more times then the novice has tried." -- Anonymous
+%
+Bash users already know you can !$ to run a different command with previous args.
+
+-> ls text.txt ; less !$ # becomes *less text.txt*
+
+Today I discovered $:0
+
+-> ls text.txt ; $:0 less # becomes *less text.txt*
+
+Mind. Blown!
+
+   -- Karsten Johansson
+%
+You can visit people in their dreams, but you'll always appear naked.
 %
