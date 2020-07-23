@@ -55,7 +55,9 @@
 "Above all else, guard your heart, for everything you do flows from it." -- Proverbs 4:23
 %
 > (let((Δ 1))(1+ Δ))
+
 2
+
 > _
 %
 "When the model becomes accurate, it is just as difficult to understand as the real-world processes it represents." -- Bonini's paradox
@@ -142,8 +144,6 @@ Metrocop: “She'll get years for that. Off switches are illegal!”
 %
 "Judgement is soluble in alcohol" -- Dr. Justin A. Frank
 %
-"Why even bother with an act if you can’t commit to the role?" -- Colin Lupton
-%
 "Rome wasn't built in a day. But they were laying bricks every hour." -- James Clear
 %
 "This is a time of judgment. Not God's, but ours. A time to choose what matters and what passes away." -- Pope Francis
@@ -217,4 +217,18 @@ If that was possible, Y2K wouldn't have been a thing. And yet we're expecting it
 Nobody's gonna change a thing.
 
     -- Karsten Johansson
+%
+"My car and adding machine understand nothing; they are not in that line of business." -- John Searle
+%
+"We are not interested in the fact that the brain has the consistency of cold porridge." -- Alan Turing
+%
+Them: What do you mean you're #lefthanded? As in, you aren't "right"?
+
+Me: No. "Left" as in "exercise to the reader."
+
+I should lay off on the math a little.
+
+    -- Karsten Johansson
+%
+"Being well educated doesn't mean you are well informed." -- Mary Trump
 %
