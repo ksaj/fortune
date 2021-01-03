@@ -321,3 +321,25 @@ Now I drink for good enough.
 %
 "To play a wrong note is insignificant, to play without passion is inexcusable" -- Ludwig van Beethoven
 %
+"Are we having fun yet?" -- Zippy the Pinhead
+%
+"WHEN YOUNG, LIFE IS USED TO BUY WEALTH. WHEN OLD, WEALTH IS USED TO BUY LIFE" -- Dr. Sbaitso
+%
+"A heroic movie is only as good as its villain." -- Anonymous
+%
+“We are like butterflies who flutter for a day and think it is forever.” -- Carl Sagan
+%
+(defun fact (about-fibonacci)
+  "Even though he popularized Arabic numerals in
+   the West, Fibonacci didn't recognize 0 as a number, 
+   even though China and Islamic countries had used
+   0 as a number for a few hundred years already."
+
+   t)
+%
+“If only it were as easy to banish hunger by rubbing my belly." -- Diogenes the Cynic re: Wanking in public
+%
+"The map is not the territory." -- Alfred Korzybski
+%
+"I want to do with programming languages what Tolkien did with natural languages" -- @RosaCtrl Rosa, Control
+%
