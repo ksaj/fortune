@@ -11,7 +11,7 @@ Then:
 
 > fortune -e ksaj
 
-This also works with fortune piped through cowsay and all the other fortune filter variants.
+This also works with fortune piped through cowsay and all the other fortune filter variants. I recommend trying dynosay, which is found here: https://github.com/MatteoGuadrini/dinosay
 
 Incidentally, here's how I use it personally. It greets me every time I open a new bash terminal. You can do something like this by simply adding the following line to the end of your .bashrc or equivalent terminal shell configuration file:
 
