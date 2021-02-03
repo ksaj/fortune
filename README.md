@@ -1,5 +1,5 @@
 # fortune
-Quips I've assembled for fortune, cowsay, etc.
+Quips I've assembled for fortune, cowsay, dinosay, etc.
 
 ## Howto
 
