@@ -11,13 +11,13 @@ Then:
 
 > fortune -e ksaj
 
-This also works with fortune piped through cowsay and all the other fortune filter variants. I recommend trying dynosay, which is found here: https://github.com/MatteoGuadrini/dinosay
+This also works with fortune piped through cowsay and all the other fortune filter variants. I recommend trying dinosay, which is found here: https://github.com/MatteoGuadrini/dinosay
 
 Incidentally, here's how I use it personally. It greets me every time I open a new bash terminal. You can do something like this by simply adding the following line to the end of your .bashrc or equivalent terminal shell configuration file:
 
 > fortune -e ksaj | cowthink -f $(find /usr/share/cowsay/cows -type f | shuf -n 1)
 
-But I'll probably try dynosay for a while. I'll come back later with whatever command line I settle with.
+But I'll probably try dinosay for a while. I'll come back later with whatever command line I settle with.
 
 An example of how this appears:
 
