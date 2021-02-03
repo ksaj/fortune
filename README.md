@@ -17,6 +17,8 @@ Incidentally, here's how I use it personally. It greets me every time I open a n
 
 > fortune -e ksaj | cowthink -f $(find /usr/share/cowsay/cows -type f | shuf -n 1)
 
+But I'll probably try dynosay for a while. I'll come back later with whatever command line I settle with.
+
 An example of how this appears:
 
 ```
