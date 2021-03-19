@@ -410,3 +410,47 @@ I think we should pronounce it that way here. Half the syllables (which in itsel
 %
 TIL the word "lagniappe" (pr: 'lan yap). It's the 13th donut in a baker's dozen, the extra gin in your tonic, the free scoop of ice cream for your pie, the movie cut scenes or blooper reel, the dividends in your stock portfolio...
 %
+"He who doesn't drink the first, shall never ever quench their thirst" -- translated from the Swedish drinking song, Helan Går
+%
+"If hacking was easy, it would be called system administration." -- @DebugPrivilege
+%
+"Simple things? I don't know that many simple things." -- Yngwie Malmsteen
+%
+Team Owner: Do you believe in ghosts?
+
+Ted Lasso: I do. But more importantly, I believe they need to believe in themselves.
+
+-- Ted Lasso, Apple TV
+%
+I must be email anti-social. The number of websites that invite me to join their email list is ever increasing, but the likelihood of me wanting to fill my email box with even more stuff to not read is a flat and steady zero.
+%
+"Perfection of means and confusion of ends seem to characterize our age." -- Albert Einstein
+%
+"Don't sell yourself short to belong." -- @Vernam
+%
+"I love not Man the less, but Nature more." -- Lord Byron
+%
+"We should all take care not to be so open minded that our brains fall out." -- Attributed to a lot of people
+%
+"I opened my intellect as I opened my mouth, in order to shut it again on something solid." -- G. K. Chesterton
+%
+"When writing the story of your life, don't let anyone else hold the pen." -- Harley Davidson
+%
+They didn't even accept my pull request for IPv4.1.
+%
+(letrec   ([evenp      (lambda             (n          )
+           (or         (zerop               n          )
+           (oddp       (1-                  n      ))))]
+           [oddp       (lambda             (n          )
+           (and        (not      (zerop     n         ))
+           (evenp      (1-                  n     ))))])
+                       (oddp                        11))
+
+; Oh, Racket. It is *quite* odd.
+%
+"Is Object Oriented Programming like the proverbial hammer, that only sees nails?" -- @blackeuler
+%
+In all my life, I've never really felt particularly whelmed.
+%
+Don't use words like "egg" in your password. They are easy to crack.
+%
