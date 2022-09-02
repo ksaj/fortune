@@ -1184,7 +1184,7 @@ USA is not a democracy. The people did not rule during the overturning of Roe v 
 %
 "Any race that can't rise above its own brutal instincts will wipe itself out long before it learns to bridge the interstellar gulf." -- Peter Watts, Blindsight
 %
-"You never how the Big Picture to your front line. The less they know, the less they can betray." -- Peter Watts, Blindsight
+"You never show the Big Picture to your front line. The less they know, the less they can betray." -- Peter Watts, Blindsight
 %
 "Only when the last tree has been cut down, the last fish has been caught, and the last stream poisoned, will be realize we cannot eat money." -- Cree Indian Proverb
 %
@@ -1278,4 +1278,58 @@ Age like a fine single malt: Fully corked for decades straight!
 1980's: Take a pop or rock song, and play it on flute. It's elevator music, and everybody hates it.
 
 2020's: Take a pop or rock song, and play it on flute. It's bard music, and it'll get 10,000 upvotes.
+%
+I just heard that before #Covid_19 lockdowns, 1 out of 10 people suffered from hemorrhoids. Post-#lockdown that has increased to 2 out of 10 people suffering from hemorrhoids.
+
+Wait... So does that mean 8 out of 10 people still enjoy hemorrhoids? #Statistics
+%
+How I hack in Python:
+
+>>> help re
+  File "<stdin>", line 1
+    help re
+         ^
+SyntaxError: invalid syntax
+>>> help(re)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 're' is not defined
+>>> re="re"
+>>> help(re)
+
+Nailed it!
+%
+Cicadas: Tinnitus You Can Share!™
+%
+"The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." -- Charles Bukowski
+%
+"It's cool to get on the computer, but don't let the computer get on you. It's cool to use the computer. Don't let the computer use you. You all saw the Matrix." -- Prince
+%
+"It’s very common to be utterly brilliant and still think you’re way smarter than you actually are." -- Charlie Munger
+%
+Back when security awareness training was a new thing, I would prompt with, "Raise your hand if you use your girlfriend, boyfriend, spouse's name as your password." A few shy hands would go up. Then, "Ok, anyone just discover they know someone else's password?" Laughs were had.
+%
+"Every action you take is a vote for the type of person you wish to become." -- James Clear, Atomic Habits
+%
+I grew up hearing "batting a hundred" to mean someone was "on a roll" so often as a kid. When I eventually found out that means you only hit the ball 10% of the time, I lmao.
+
+But now I don't know what to think about how many times I was apparently "batting 100."
+%
+If I ran a weight lifting awards factory, I would call it Hyper Trophy Builders Inc.
+%
+Oxymoron
+------------ 
+Sweet and Sour
+Old News
+Pretty Ugly
+Only Choice
+Right-wing Libs
+
+Although only one of them are simply Morons.
+%
+Lately I've been considering the similarity with professional photography of closeup parts of ancient statues, architecture, gardens, etc., and songs that use samples. They are both predecessors to AI generating art based on prompts.
+
+[Compared with AI art] All three of them use something from prior art to create a different piece of art.
+%
+"Every man desires to live long, but no man wishes to be old." -- Jonathan Swift
 %
